@@ -185,3 +185,10 @@ img{
   background: #0cf;
 
 }
+
+.btn{
+  padding: 10px 20px;
+  outline: none;
+  border: 2px solid transparent;
+  background-color: red;
+}
